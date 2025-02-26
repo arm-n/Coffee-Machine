@@ -21,7 +21,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/arm-n/coffee-machine-project.git
+git clone https://https://github.com/arm-n/Coffee-Machine.git
 Navigate to the project folder:
 
 bash

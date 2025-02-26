@@ -21,19 +21,19 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://https://github.com/arm-n/Coffee-Machine.git
+git clone https://github.com/arm-n/Coffee-Machine.git
 Navigate to the project folder:
 
 bash
 Copy
 Edit
-cd coffee-machine-project
+cd Coffee-Machine
 Run the program:
 
 bash
 Copy
 Edit
-python coffee_machine.py
+python main.py
 Usage
 The program runs in an infinite loop, where you can interact by choosing one of the following options:
 

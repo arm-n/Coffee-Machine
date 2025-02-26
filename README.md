@@ -1,4 +1,4 @@
-#Coffee Machine Project
+Coffee Machine Project
 This is a simple Python-based coffee machine simulation that allows users to order coffee, insert coins, and check their remaining stock of ingredients. The machine can prepare three types of coffee: Espresso, Latte, and Cappuccino. It also tracks profit and updates ingredient stock after each order.
 
 Features
@@ -21,7 +21,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/arm-n/coffe-machine-project.git
+git clone https://github.com/arm-n/coffee-machine-project.git
 Navigate to the project folder:
 
 bash
